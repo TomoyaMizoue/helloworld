@@ -1,10 +1,10 @@
 # helloworld
--apple
--banana
--peach
+- apple
+- banana
+- peach
 
 
-#conclusions
-1.orange
-1.grape
-1.mango
+# conclusions
+1 orange
+1 grape
+1 mango
